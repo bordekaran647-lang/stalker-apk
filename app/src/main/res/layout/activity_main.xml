@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:gravity="center" android:background="#0f0f23">
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Phone Security Scanner" android:textSize="22sp" android:textColor="#667eea" android:textStyle="bold"/>
+<TextView android:id="@+id/st" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Tap start" android:textColor="#888" android:layout_marginTop="16dp"/>
+<Button android:id="@+id/btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Start Free Scan" android:layout_marginTop="32dp" android:enabled="false"/>
+</LinearLayout>
